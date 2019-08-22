@@ -1,0 +1,6 @@
+F:\Projects\ProgramTest\AccentureTest\AccentureTest\bin\Debug\AccentureTest.exe.config
+F:\Projects\ProgramTest\AccentureTest\AccentureTest\obj\Debug\AccentureTest.csprojResolveAssemblyReference.cache
+F:\Projects\ProgramTest\AccentureTest\AccentureTest\bin\Debug\AccentureTest.exe
+F:\Projects\ProgramTest\AccentureTest\AccentureTest\bin\Debug\AccentureTest.pdb
+F:\Projects\ProgramTest\AccentureTest\AccentureTest\obj\Debug\AccentureTest.exe
+F:\Projects\ProgramTest\AccentureTest\AccentureTest\obj\Debug\AccentureTest.pdb
